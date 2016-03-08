@@ -6,8 +6,8 @@
 // @author       jemonjam
 // @include      http*://localhost:6006*
 // @include      http*://ec2-52-37-146-29.us-west-2.compute.amazonaws.com:6006*
-// @updateURL    https://raw.githubusercontent.com/jacob-meacham/tensorboard-utilities/tensorboard-utilities.js
-// @downloadURL  https://raw.githubusercontent.com/jacob-meacham/tensorboard-utilities/tensorboard-utilities.js
+// @updateURL    https://raw.githubusercontent.com/jacob-meacham/tensorboard-utilities/master/tensorboard-utilities.js
+// @downloadURL  https://raw.githubusercontent.com/jacob-meacham/tensorboard-utilities/master/tensorboard-utilities.js
 // @grant        GM_addStyle
 // @grant        GM_getValue
 // @grant        GM_setValue
