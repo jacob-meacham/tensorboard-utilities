@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tensorboard Utilities
 // @namespace    http://jemonjam.com
-// @version      1.1
+// @version      1.2
 // @description  Add customization options to the default Tensorboard UI
 // @author       jemonjam
 // @include      http*://localhost:6006*
